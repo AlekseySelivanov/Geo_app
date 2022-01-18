@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Geo_app</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="your_location">Your location</string>
+    <string name="location_permission_denied">Location Permission denied</string>
+    <string name="exit_title">This application needs access to geolocation for further work</string>
+    <string name="i_understood">I understood</string>
+    <string name="about">More about places</string>
+    <string name="your_places">Your places</string>
+    <string name="location_item_template">Latitude = %1$f, longitude = %2$f</string>
+    <string name="location_title_hint">Change location title</string>
+    <string name="location_text_hint">Add some information about this location</string>
 </resources>
